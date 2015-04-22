@@ -1,0 +1,25 @@
+{
+  "name": "mohoo-telecom-even-card",
+  "version": "0.0.1",
+  "description": "express-base",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iceopen/node-express-base"
+  },
+  "author": "mohoo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iceopen/node-express-base"
+  },
+  "dependencies": {
+    "async": "*",
+    "express": "4.x",
+    "log4js": "*",
+    "request": "*",
+    "newrelic": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
