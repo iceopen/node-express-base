@@ -12,7 +12,7 @@ if (!config.debug) {
 app.use(log4js.connectLogger(log4js.getLogger("http"), {level: 'auto'}));
 
 app.get("*", function (req, res) {
-    res.send('Hell');
+    res.send('ok');
 });
 
 var server = app.listen(port, function (req, res) {
