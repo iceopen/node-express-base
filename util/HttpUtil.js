@@ -1,7 +1,7 @@
 /**
  * Created by mohoo on 15/3/4.
  */
-var logger = require("../util/log4jsUtil");
+var logger = require("../util/Log4jsUtil");
 var request = require('request');
 var apis = require('../apis');
 var headers = {
