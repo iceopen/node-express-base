@@ -1,6 +1,0 @@
-[2015-12-16 13:15:54.449] [INFO] cheese - Listening on port 3000
-[2015-12-16 13:16:02.530] [INFO] cheese - Listening on port 3000
-[2015-12-16 13:16:11.621] [INFO] http - ::ffff:127.0.0.1 - - "GET /wap/query/package/use?openid=oKXUCj9i65yX2oNwDpshDNb8zSYw HTTP/1.1" 200 17 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
-[2015-12-16 13:16:11.901] [INFO] http - ::ffff:127.0.0.1 - - "GET /favicon.ico HTTP/1.1" 200 17 "http://127.0.0.1:3000/wap/query/package/use?openid=oKXUCj9i65yX2oNwDpshDNb8zSYw" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
-[2015-12-16 13:16:13.206] [INFO] http - ::ffff:127.0.0.1 - - "GET / HTTP/1.1" 200 17 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
-[2015-12-16 13:16:13.382] [WARN] http - ::ffff:127.0.0.1 - - "GET /favicon.ico HTTP/1.1" 304 - "http://127.0.0.1:3000/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36"
